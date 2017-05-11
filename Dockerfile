@@ -1,5 +1,5 @@
 # use the node base image provided by official repo
-FROM jonnyyu/docker-hexo-cli
+FROM emitting/hexo
 MAINTAINER Jonny Yu "yingshen.yu@gmail.com"
 
 # prepare work directory
